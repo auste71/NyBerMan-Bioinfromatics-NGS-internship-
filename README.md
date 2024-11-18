@@ -1,4 +1,5 @@
 The objective 1 of this mini project was to:
+
 *Use basic and linux advance command line to handle the Human gene annotation file (.GTF file)
 *Find Protein coding genes and then check how many different genes names are there in the human annotations file
 
